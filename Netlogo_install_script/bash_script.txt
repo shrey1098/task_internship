@@ -1,0 +1,5 @@
+yum upgrade -y
+su -
+wget http://ccl.northwestern.edu/netlogo/6.1.1/NetLogo-6.1.1-64.tgz
+tar zxvf NetLogo-6.1.1-64.tgz
+./NetLogo
